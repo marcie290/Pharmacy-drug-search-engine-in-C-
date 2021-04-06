@@ -1,0 +1,20 @@
+
+
+************Zestaw 1************************
+Syromag, cena:9 zl, Syropex, cena:10 zl, 
+RAZEM: 19
+
+
+************Zestaw 2************************
+Tabloflex, cena:49 zl, Tablomed, cena:49 zl, 
+RAZEM: 98
+
+
+************Zestaw 3************************
+Promag, cena:9 zl, Syropex, cena:39 zl, 
+RAZEM: 48
+
+
+************Zestaw 4************************
+Proflex, cena:49 zl, Propol, cena:59 zl, 
+RAZEM: 108

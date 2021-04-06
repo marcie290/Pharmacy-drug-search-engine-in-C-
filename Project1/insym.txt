@@ -1,0 +1,18 @@
+Syropex,kaszel suchy,zatoki,zatkany nos,katar
+Syromed,bol brzucha, bol glowy
+Syrokodin,goraczka,grypa,katar,przeziebienie,bol
+Syromag,bol gardla,kaszel suchy,bol
+Syropol,grypa,goraczka,bol stawow,bol miesni
+Syroflex,bol glowy,bol miesni,bol stawow
+Tablopex,bol glowy,bol miesni,bol stawow
+Tablomed,kaszel suchy,zatoki,bol gardla
+Tablokodin,goraczka,grypa
+Tablomag,bol brzucha,bol miesni
+Tablopol,goraczka,grypa,
+Tabloflex,kaszel suchy,zatoki,katar
+Prospex,katar,grypa,goraczka
+Promed,grypa,goraczka,bol stawow,katar
+Prokodin,bol glowy,katar,bol miesni,bol stawow,bol plecow
+Promag,niestrawnosc,bol brzucha,zgaga
+Propol,biegunka,katar,wymioty,bol brzucha,zgaga
+Proflex,kaszel,uczucie dusznosci,bol gardla,klopoty z oddychaniem,zgaga
